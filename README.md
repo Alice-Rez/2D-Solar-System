@@ -6,7 +6,7 @@
 
 ## Implementation
 
-Images of the sun and planet from Wikipedia.
+Images of the sun and planet surfaces taken from Wikipedia.
 
 **Used technologies**: CSS variables, CSS animations, positioning, calculations, HTML,
 

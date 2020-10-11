@@ -1,8 +1,10 @@
 # 2D Solar System
 
-[Live Demo](https://alice-rez.github.io/2D-Solar-System/)
-
 ## Description
+
+<img align="right" src="./image.png" width="40%">
+
+[Live Demo](https://alice-rez.github.io/2D-Solar-System/)
 
 2D animation of the Solar System. This project was done after finishing CSS part of the course (before learning SCSS and JS). The proportions are not exact (it would make small planets not distinguishable), but the proportions between the time of orbit of individual planets (and Moon) corresponds to the reality. For the simplicity, just Moon of the Earth is displayed. Also there is no Pluto because Pluto is not a planet :grin:.
 
